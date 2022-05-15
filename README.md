@@ -10,8 +10,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: https://www.linkedin.com/in/jose-carlos-front-end/, https://github.com/JoseCarlos-Filho
 
-<p display: flex; justify-content: center;>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCarlos-Filho&theme=tokyonight)
+<p display: align: center;>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCarlos-Filho&theme=tokyonight height=300em)
   <img src="https://github-readme-stats.vercel.app/api?username=JoseCarlos-Filho&show_icons=true&theme=buefy&include_all_commits=true&count_private=true" height=300em 
        />
 </p>
