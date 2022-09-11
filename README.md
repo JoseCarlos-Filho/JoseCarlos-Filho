@@ -9,7 +9,7 @@
 - 📫 How to reach me: https://www.linkedin.com/in/jose-carlos-front-end/, https://github.com/JoseCarlos-Filho
 
 
-##
+---
   
   
   <div>
@@ -18,7 +18,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCarlos-Filho&layout=compact&langs_count=7&theme=dark"/>
   </div>
   
-  ##
+  ---
   
   <div>
     <img align="center" height="40" width="50" alt="Jose-HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -29,6 +29,12 @@
     <img align="center" height="40" width="50" alt="Jose-Vue" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
     <img align="center" height="40" width="50" alt="Jose-SASS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
     <img align="center" height="40" width="50" alt="Jose-VSCODE" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  </div>
+  
+  ---
+  
+  <div>
+    <a href="https://www.linkedin.com/in/jose-carlos-front-end/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
 
 <!--
