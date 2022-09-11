@@ -10,9 +10,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: https://www.linkedin.com/in/jose-carlos-front-end/, https://github.com/JoseCarlos-Filho
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCarlos-Filho&theme=tokyonight)
-  <div style="display:flex; align-items:center; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=JoseCarlos-Filho&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"                    height=300em/>
+  
+  <div>
+    <a href="[https://github.com/JoseCarlos-Filho]">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseCarlos-Filho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCarlos-Filho&layout=compact&langs_count=7&theme=dracula"/>
   </div>
  
 
