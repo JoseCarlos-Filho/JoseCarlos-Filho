@@ -9,10 +9,11 @@ Here are some ideas to get you started:
                                 https://sass-lang.com/, W3C, https://developer.mozilla.org/pt-BR/, https://pt-br.reactjs.org/ 
 - 💬 Ask me about ...
 - 📫 How to reach me: https://www.linkedin.com/in/jose-carlos-front-end/, https://github.com/JoseCarlos-Filho
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCarlos-Filho&theme=tokyonight)
-  <img src="https://github-readme-stats.vercel.app/api?username=JoseCarlos-Filho&show_icons=true&theme=buefy&include_all_commits=true&count_private=true" height=300em 
-       />
+  <div style="display:flex; align-items:center">
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCarlos-Filho&theme=tokyonight)
+    <img src="https://github-readme-stats.vercel.app/api?username=JoseCarlos-Filho&show_icons=true&theme=buefy&include_all_commits=true&count_private=true" height=300em 
+         />
+  </div>
 
 <!--
 **JoseCarlos-Filho/JoseCarlos-Filho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
