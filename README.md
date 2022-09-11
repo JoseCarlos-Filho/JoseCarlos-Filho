@@ -14,6 +14,14 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseCarlos-Filho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCarlos-Filho&layout=compact&langs_count=7&theme=dark"/>
   </div>
+  
+  <div>
+    <img alt="Jose-HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img alt="Jose-CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <img alt="Jose-JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img alt="Jose-TS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+    <img alt="Jose-React"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />      
+  </div>
 
 <!--
 **JoseCarlos-Filho/JoseCarlos-Filho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
