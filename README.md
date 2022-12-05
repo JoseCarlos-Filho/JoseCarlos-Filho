@@ -15,13 +15,18 @@
   <div>
     <p align="center"> 
       <a href="[https://github.com/JoseCarlos-Filho]"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseCarlos-  Filho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   </p>
+  </div>
+  <div>
+    <p align="center">
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCarlos-Filho&layout=compact&langs_count=7&theme=dark"/>
     </p>
-  </div>
+   </div>
+  
   
   ---
   
-  <div>
+  <div align="center">
     <img align="center" height="40" width="50" alt="Jose-HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img align="center" height="40" width="50" alt="Jose-CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img align="center" height="40" width="50" alt="Jose-JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
