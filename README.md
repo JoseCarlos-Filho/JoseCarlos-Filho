@@ -4,9 +4,13 @@
 
 
 - 🔭 Desenvolvendo em Vue.js and React.js
+
 - 🌱 Adquirindo conhecimentos em JavaScript, TypeScript, React.js, Vue.js, API Rest, Metodologia Agil
+
 - 👯 participação e colaboração na COMUNIDADE CODE e GITHUB
+
 - 🤔 links uteis de consulta permanente:  https://vuejs.org/, https://www.javascript.com/, Comunidade Impulso Network, Comunidade DIO, https://sass-lang.com/, https://www.w3schools.com/, https://developer.mozilla.org/pt-BR/, https://pt-br.reactjs.org/ , https://vuejs.org/, https://www.codewars.com/, https://www.typescriptlang.org/
+
 - 📫 Onde se comunicar com meu perfil: https://www.linkedin.com/in/jose-carlos-front-end/, https://github.com/JoseCarlos-Filho
 
 
