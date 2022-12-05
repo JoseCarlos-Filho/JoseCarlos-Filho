@@ -19,7 +19,7 @@
   
   <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCarlos-Filho&langs_count=10&theme=vue-darkt&layout=compact" alt="José Carlos Languages" /></p>
   <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=JoseCarlos-Filho&show_icons=true&theme=vue-darkdark" alt="José Profile" /></p>
-  <p align="center">img src="http://github-readme-streak-stats.herokuapp.com?user=JoseCarlos-Filho&theme=vue-dark&border_radius=10&locale=pt-br" alt="José Carlos stack" />(https://git.io/streak-stats)</p>
+  <p align="center">img src="http://github-readme-streak-stats.herokuapp.com/?user=JoseCarlos-Filho&theme=vue-dark&border_radius=10&locale=pt-br" alt="José Carlos stack" /></p>
   
   
   ---
