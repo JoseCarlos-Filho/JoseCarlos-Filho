@@ -17,8 +17,10 @@
 ---
   
   <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCarlos-Filho&langs_count=10&theme=vue-darkt&layout=compact" alt="José Carlos Languages" /></p>
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=JoseCarlos-Filho&show_icons=true&theme=vue-dark" alt="José Profile" /></p>
-  <p align="center"><img src="http://github-readme-streak-stats.herokuapp.com/?user=JoseCarlos-Filho&theme=vue-dark&border_radius=10&locale=pt-br)" /></p>
+  <p>
+    <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=JoseCarlos-Filho&show_icons=true&theme=vue-dark" alt="José Profile" /></p>
+    <p align="right"><img src="http://github-readme-streak-stats.herokuapp.com/?user=JoseCarlos-Filho&theme=vue-dark&border_radius=10&locale=pt-br)" /></p>
+  </p>
   
   ---
   
