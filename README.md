@@ -12,11 +12,7 @@
 ---
   
   
-  <div>
-    <p align="center"> 
-      <a href="[https://github.com/JoseCarlos-Filho]"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseCarlos-Filho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   </p>
-  </div>
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCarlos-Filho&langs_count=10&theme=tokyonight&layout=compact" alt="José Carlos Languages" /></p>
   <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=JoseCarlos-Filho&show_icons=true&theme=synthwave" alt="José Profile" /></p>
   
   
