@@ -14,14 +14,10 @@
   
   <div>
     <p align="center"> 
-      <a href="[https://github.com/JoseCarlos-Filho]"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseCarlos-  Filho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+      <a href="[https://github.com/JoseCarlos-Filho]"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseCarlos-Filho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
    </p>
   </div>
-  <div>
-    <p align="center">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCarlos-Filho&layout=compact&langs_count=7&theme=dark"/>
-    </p>
-   </div>
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=JoseCarlos-Filho&show_icons=true&theme=synthwave" alt="José Profile" /></p>
   
   
   ---
