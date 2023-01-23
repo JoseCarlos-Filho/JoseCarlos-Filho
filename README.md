@@ -22,7 +22,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=JoseCarlos-Filho&show_icons=true&theme=vue-dark&border_radius=10" alt="José Profile" />
   </p>
   <p>
-    [![GitHub Streak](https://streak-stats.demolab.com?user=JoseCarlos-Filho&theme=vue-dark)](https://git.io/streak-stats)
     <img src="https://streak-stats.demolab.com?user=JoseCarlos-Filho&theme=vue-dark&locale=pt_BR" alt="José Carlos Profile" />
    </p>
   </div>
