@@ -20,6 +20,7 @@
   <div align="center">
       <p display="flex">
         <img src="https://github-readme-stats.vercel.app/api?username=JoseCarlos-Filho&show_icons=true&theme=vue-dark&border_radius=10" alt="José Profile" />
+        <img src="http://github-readme-streak-stats.herokuapp.com/?user=JoseCarlos-Filho&theme=vue-dark&border_radius=10&locale=pt-br)" />
     </p>
   </div>
   
