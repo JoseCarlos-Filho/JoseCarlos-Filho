@@ -23,6 +23,7 @@
   </p>
   <p>
     [![GitHub Streak](https://streak-stats.demolab.com?user=JoseCarlos-Filho&theme=vue-dark)](https://git.io/streak-stats)
+    <img src="https://streak-stats.demolab.com?user=JoseCarlos-Filho&theme=vue-dark&locale=pt_BR" alt="José Carlos Profile" />
    </p>
   </div>
   
