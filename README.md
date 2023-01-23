@@ -20,6 +20,7 @@
   <div align="center">
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=JoseCarlos-Filho&show_icons=true&theme=vue-dark&border_radius=10" alt="José Profile" />
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=vue-dark)
   </p>
   <p>
     <img src="https://streak-stats.demolab.com?user=JoseCarlos-Filho&theme=vue-dark&locale=pt_BR" alt="José Carlos Profile" />
