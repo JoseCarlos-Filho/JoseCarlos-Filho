@@ -15,11 +15,10 @@
 
 
 ---
-  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)  
   <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCarlos-Filho&langs_count=10&theme=vue-dark&layout=compact" alt="José Carlos Languages" /></p>
   <div align="center">
   <p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
     <img src="https://github-readme-stats.vercel.app/api?username=JoseCarlos-Filho&theme=vue-dark&show_icons=true" alt="José Profile" />
   </p>
   <p>
