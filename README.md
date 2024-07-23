@@ -20,11 +20,13 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseCarlos-Filho&theme=vue-dark&show_icons=true)
+![JoseCarlos-Filho's Stats](https://github-readme-stats.vercel.app/api?username=JoseCarlos-Filho&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ---
 
 <img src="https://streak-stats.demolab.com?user=JoseCarlos-Filho&theme=vue-dark&hide_border=true&border_radius=5&locale=pt_BR" alt="GitHub Streak" />
+
+
 
 ---
   
