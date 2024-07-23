@@ -15,11 +15,13 @@
 
 
 ---
-<div style="text-align: center;">
 
-  ![JoseCarlos-Filho's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCarlos-Filho&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+<div style="text-align: center;">
+  
+![JoseCarlos-Filho's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCarlos-Filho&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 </div>
+
 ---
 
 ![JoseCarlos-Filho's Stats](https://github-readme-stats.vercel.app/api?username=JoseCarlos-Filho&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
