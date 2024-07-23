@@ -16,11 +16,11 @@
 
 ---
 
-<div style="text-align: center;">
+<p align="center">
   
 ![JoseCarlos-Filho's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCarlos-Filho&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-</div>
+</p>
 
 ---
 
