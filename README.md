@@ -24,13 +24,9 @@
 
 ---
 
- <div align="center">  
-   <p>
-    <img src="https://streak-stats.demolab.com?user=JoseCarlos-Filho&theme=vue-dark" alt="GitHub Streak" />
-   </p>
- </div>
+<p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JoseCarlos-Filho&theme=vue-dark&hide_border=true&border_radius=5&locale=pt_BR" alt="GitHub Streak" /></a></p>
  
-  ---
+---
   
   <div align="center">
     <img align="center" height="40" width="50" alt="Jose-HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
