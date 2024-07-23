@@ -16,7 +16,7 @@
 
 ---
 
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCarlos-Filho&langs_count=10&theme=vue-dark&layout=compact" alt="José Carlos Languages" /></p>
+  ![JoseCarlos-Filho's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCarlos-Filho&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
@@ -24,9 +24,7 @@
 
 ---
 
-<img src="https://streak-stats.demolab.com?user=JoseCarlos-Filho&theme=vue-dark&hide_border=true&border_radius=5&locale=pt_BR" alt="GitHub Streak" />
-
-
+![JoseCarlos-Filho's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoseCarlos-Filho&theme=vue-dark&hide_border=true)
 
 ---
   
