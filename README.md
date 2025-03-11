@@ -16,16 +16,13 @@
 
 ---
 
-<p align="center">
 ![JoseCarlos-Filho's Stats](https://github-readme-stats.vercel.app/api?username=JoseCarlos-Filho&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![JoseCarlos-Filho's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCarlos-Filho&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-</p>
 
 ---
-<p align="center">
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JoseCarlos-Filho&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
-</p>
 
 ---
   
