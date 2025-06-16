@@ -22,7 +22,7 @@
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JoseCarlos-Filho&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=JoseCarlos-Filho)](https://git.io/streak-stats)
 
 ---
   
